@@ -1,5 +1,5 @@
 
-# Ferns & Petals (FNP) Sales Analysis Dashboard
+# FNP Sales Analysis Dashboard
 
 ## Overview
 An Excel-based sales analysis project using the Ferns & Petals (FNP) dataset to analyze revenue, customer spending, product performance, and sales trends.
